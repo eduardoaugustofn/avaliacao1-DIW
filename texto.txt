@@ -1,0 +1,15 @@
+Respostas av1 DIW
+
+EDUARDO AUGUSTO FREITAS NOGUEIRA
+
+3)
+
+a) <href>
+
+b) <link rel="stylesheet" href="index.css">
+
+c) .cabecalho
+
+d) <tr>
+
+e) background-color
